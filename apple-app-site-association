@@ -1,0 +1,9 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "2VXT843V9R.com.ctz360.ctzqp",
+			"paths": ["/*", "/ulink_wx/*"]
+		}]
+	}
+}
